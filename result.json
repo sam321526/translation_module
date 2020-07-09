@@ -1,0 +1,16 @@
+{
+    "1": {
+        "answer": "Control all your devices with one remo",
+        "pic": "G:\\Rex\\translation_moduleForTV\\Sound_SurroundEffect_Max_20191119111106.jpg",
+        "result": "fail",
+        "course": "Can not find the string",
+        "ocr": " ﻿________________\n\nBRAVIA\nSync\nControl all your devices with one remote\nControl Blu-ray and DVD players, AV amplifiers and other connected devices. It's the easy way to manage your home entertainment setup from one place, with just one remote.\nBRAVIA Sync Settings\nRETURN Back "
+    },
+    "2": {
+        "answer": "Control all your devices with one remo",
+        "pic": "G:\\Rex\\translation_moduleForTV\\Sound_SurroundEffect_Max_20191119111106.jpg",
+        "result": "pass",
+        "course": "",
+        "ocr": "Control all your devices with one remo"
+    }
+}

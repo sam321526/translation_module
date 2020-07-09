@@ -1,0 +1,16 @@
+{
+    "1": {
+        "answer": "Control all your devices with one remo",
+        "pic": "G:\\Rex\\translation_moduleForTV\\Sound_SurroundEffect_Max_20191119111106.jpg",
+        "result": "fail",
+        "course": "match 97%",
+        "ocr": "Control all your devices with one remote"
+    },
+    "2": {
+        "answer": "Control all your devices with one remo",
+        "pic": "G:\\Rex\\translation_moduleForTV\\Sound_SurroundEffect_Max_20191119111106.jpg",
+        "result": "pass",
+        "course": "",
+        "ocr": "Control all your devices with one remo"
+    }
+}
